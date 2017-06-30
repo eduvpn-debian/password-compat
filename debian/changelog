@@ -1,0 +1,5 @@
+password-compat (1.0.4-1) stable; urgency=medium
+
+  * initial release
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Fri, 16 Jun 2017 14:49:02 +0000
