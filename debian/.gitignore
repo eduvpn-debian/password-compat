@@ -2,4 +2,4 @@ debhelper-build-stamp
 files
 *.debhelper.log
 *.substvars
-php-password-compat/
+php-ircmaxell-password-compat/
