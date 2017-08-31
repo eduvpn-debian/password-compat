@@ -9,7 +9,7 @@ Vcs-Git: git://github.com/eduvpn-debian/password_compat.git
 Vcs-Browser: https://github.com/eduvpn-debian/password_compat/
 
 Package: php-ircmaxell-password-compat
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${phpcomposer:Debian-require}
 Suggests: ${phpcomposer:Debian-suggest}
 Description: Compatibility with the password_* functions that ship with PHP 5.5
